@@ -1,0 +1,9 @@
+body {
+                background-color: rgba(24, 13, 12, 0.7);
+            }
+            p {
+                color:#ff6b0b;
+                font-family:"helvetica";
+                font-size:30px;
+                text-align:center;
+            }
