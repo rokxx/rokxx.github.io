@@ -1,9 +1,14 @@
 body {
-  background-color: #292F33;
+    background-color: #34495E;
+}
+img {
+    display: block;
+    margin: auto;
 }
 p {
-  color:#FF6B0B;
-  font-family: helvetica;
-  font-size: 30px;
-  text-align:center;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 40px;
+    color: white;
+
 }
