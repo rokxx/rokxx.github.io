@@ -1,14 +1,17 @@
 body {
     background-color: #34495E;
 }
-img {
-    display: block;
-    margin: auto;
-}
 p {
-    text-align: center;
-    font-family: helvetica;
-    font-size: 40px;
     color: white;
-
+    font-size: 40px;
+    font-family: helvetica;
+    text-align: center;
+}
+.yoshi {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 35%;
+    margin: 0 auto;
 }

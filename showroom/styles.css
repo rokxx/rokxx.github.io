@@ -1,9 +1,17 @@
 body {
-  background-color: #292F33;
+    background-color: #292F33;
 }
 p {
-  color:#FF6B0B;
-  font-family: helvetica;
-  font-size: 30px;
-  text-align:center;
+    color: #FF6B0B;
+    font-size: 30px;
+    font-family: helvetica;
+    text-align: center;
+}
+.blueprint {
+    width: 100%;
+    text-align: center;
+}
+img {
+    width: 70%;
+    margin: 0 auto;
 }
