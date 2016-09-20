@@ -7,11 +7,55 @@ p {
     font-family: helvetica;
     text-align: center;
 }
+.role {
+    color: #000;
+    font-size: 25;
+    font-family: "Lucida Console", sans-serif;
+    text-align: center;
+}
+.shipname {
+    color: #FF6B0B;
+    font-size: 20px;
+    font-family: verdana;
+    font-style: bold;
+    text-align: center;
+}
 .blueprint {
     width: 100%;
     text-align: center;
 }
 img {
-    width: 70%;
+    width: 330px;
     margin: 0 auto;
+}
+.table {
+    display: -webkit-flex;
+    display: flex;
+    width: 85%;
+    height: 2750px;
+    margin: auto;
+    justify-content: center;
+    background-color: lightgrey;
+}
+.columnfigth {
+    background-color: transparent;
+    width: 330px;
+    height: 250px;
+    padding: 15px;
+    padding-top: 265px;
+    align-items: flex-start;
+}
+.columnmulti {
+    background-color: transparent;
+    width: 330px;
+    height: 250px;
+    padding: 15px;
+    align-items: center;
+}.columnhaul {
+    background-color: transparent;
+    width: 330px;
+    height: 250px;
+    padding: 15px;
+    padding-top: 265px;
+    align-items: flex-end;
 }
