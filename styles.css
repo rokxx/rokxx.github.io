@@ -7,11 +7,7 @@ p {
     font-family: helvetica;
     text-align: center;
 }
-.yoshi {
-    width: 100%;
+.kim {
+    display: block;
     text-align: center;
-}
-img {
-    width: 35%;
-    margin: 0 auto;
 }
